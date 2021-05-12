@@ -1,4 +1,4 @@
-# Rubik-Switch
+# Rubik-Commutator
 
 Simulation algorithm of movements in the rubik's cube. Basis for the study of switches and graphs.
 
